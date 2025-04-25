@@ -8,7 +8,6 @@
     "dev": "node --watch index.js",
     "lint": "eslint index.js src/**/*.js",
     "lint:fix": "eslint index.js src/**/*.js --fix"
-
   },
   "keywords": [
     "coffeeshop",
@@ -20,6 +19,7 @@
   "description": "refactoring coffeeshop project to standardized versioning node project",
   "devDependencies": {
     "@eslint/js": "^9.25.1",
+    "@stylistic/eslint-plugin-js": "^4.2.0",
     "eslint": "^9.25.1",
     "globals": "^16.0.0"
   }
