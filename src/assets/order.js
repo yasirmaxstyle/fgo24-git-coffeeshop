@@ -9,7 +9,7 @@ const foods = `
 |0. Back to Order Menu           |
 |99. Back to Home                |
 +--------------------------------+
-`
+`;
 const beverages = `
 +--------------------------------+
 |    Beverages     |    Price    |
@@ -21,7 +21,7 @@ const beverages = `
 |0. Back to Order Menu           |
 |99. Back to Home                |
 +--------------------------------+
-`
+`;
 const sideDishes = `
 +--------------------------------+
 |   Side Dishes    |    Price    |
@@ -33,7 +33,7 @@ const sideDishes = `
 |0. Back to Order Menu           |
 |99. Back to Home                |
 +--------------------------------+
-`
+`;
 const snacks = `
 +--------------------------------+
 |      Snacks      |    Price    |
@@ -45,7 +45,7 @@ const snacks = `
 |0. Back to Order Menu           |
 |99. Back to Home                |
 +--------------------------------+
-`
+`;
 const desserts = `
 +--------------------------------+
 |     Desserts     |    Price    |
@@ -57,12 +57,12 @@ const desserts = `
 |0. Back to Order Menu           |
 |99. Back to Home                |
 +--------------------------------+
-`
+`;
 
 export {
-    foods,
-    beverages,
-    sideDishes,
-    snacks,
-    desserts
-}
+  foods,
+  beverages,
+  sideDishes,
+  snacks,
+  desserts
+};

@@ -7,5 +7,5 @@ const homeMenu = `
 |3. Checkout        |
 |0. Exit            |
 +-------------------+
-`
-export default homeMenu
+`;
+export default homeMenu;

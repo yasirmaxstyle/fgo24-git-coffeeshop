@@ -20,6 +20,6 @@ ________|____________________________||_____||_|________
 _____________________________________/_______\__________
 
 Silakan tulis "kulo nuwun" untuk masuk: 
-`
+`;
 
-export default asciiArt
+export default asciiArt;

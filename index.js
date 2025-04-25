@@ -1,3 +1,3 @@
 import orderApp from "./src/orderApp.js";
 
-orderApp()
+orderApp();

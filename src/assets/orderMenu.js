@@ -9,6 +9,6 @@ const orderMenu = `
 |5. | Desserts     |
 |0. | Back         |
 +------------------+
-`
+`;
 
-export default orderMenu
+export default orderMenu;
