@@ -1,0 +1,17 @@
+{
+  "name": "fgo24-git-coffeeshop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "coffeeshop",
+    "order",
+    "menu"
+  ],
+  "author": "yasirmaxstyle",
+  "license": "ISC",
+  "description": "refactoring coffeeshop project to standardized versioning node project"
+}
