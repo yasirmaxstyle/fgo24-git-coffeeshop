@@ -75,11 +75,16 @@ const objectMenu = {
   },
   cart:
   {
-    foods: [],
-    beverages: [],
-    sideDishes: [],
-    snacks: [],
-    desserts: []
+    foods: [
+    ],
+    beverages: [
+    ],
+    sideDishes: [
+    ],
+    snacks: [
+    ],
+    desserts: [
+    ]
   }
 };
 
